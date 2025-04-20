@@ -1,0 +1,14 @@
+site_name: Qazi Ali Hassan
+
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Blogs: blog.md
+  - Resume: resume.md
+  - Skills: skills.md
+  - About: about.md
+
+
+theme: readthedocs
+#theme : mkdocs 
