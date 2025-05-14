@@ -1,39 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/index.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/about.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/about/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/blogs.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/blogs/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/projects.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/projects/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/resume.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/resume/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/skills.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/skills/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/Blogs/blog_1.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/blogs/blog_1/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/projects/project_1.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/blogs/netflix_analysis_blog/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
     <url>
-         <loc>https://qazi-hassan.github.io/my-portfolio/projects/project_2.html</loc>
-         <lastmod>2025-04-20</lastmod>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/blogs/retail_orders_blog/</loc>
+         <lastmod>2025-05-14</lastmod>
+    </url>
+    <url>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/blogs/self_taught_analytics/</loc>
+         <lastmod>2025-05-14</lastmod>
+    </url>
+    <url>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/projects/project_1/</loc>
+         <lastmod>2025-05-14</lastmod>
+    </url>
+    <url>
+         <loc>https://Qazi-Hassan.github.io/my-portfolio/projects/project_2/</loc>
+         <lastmod>2025-05-14</lastmod>
     </url>
 </urlset>
